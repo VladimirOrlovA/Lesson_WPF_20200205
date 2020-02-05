@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Lesson_WPF_20200205"
         mc:Ignorable="d"
         Title="Lesson_WPF_20200205" Height="450" Width="800">
-    <Grid>
+    <Grid ShowGridLines="True">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1*"/>
             <ColumnDefinition Width="1*"/>
