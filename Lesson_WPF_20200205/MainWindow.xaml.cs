@@ -23,6 +23,7 @@ namespace Lesson_WPF_20200205
         public MainWindow()
         {
             InitializeComponent();
+            
         }
     }
 }
